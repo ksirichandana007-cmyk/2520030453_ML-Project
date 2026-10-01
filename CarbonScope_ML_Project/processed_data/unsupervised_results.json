@@ -1,0 +1,10 @@
+{
+  "kmeans_clusters": 4,
+  "agglomerative_clusters": 4,
+  "dbscan_labels": 1,
+  "pca_variance": [
+    0.11119242645423255,
+    0.10907632909731249
+  ],
+  "anomalies": 45
+}
